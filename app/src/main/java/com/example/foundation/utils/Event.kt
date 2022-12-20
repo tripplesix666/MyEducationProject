@@ -1,4 +1,4 @@
-package com.example.my_simple_mvvm.utils
+package com.example.foundation.utils
 
 import androidx.lifecycle.LiveData
 

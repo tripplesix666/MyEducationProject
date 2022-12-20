@@ -1,4 +1,4 @@
-package com.example.my_simple_mvvm.views.base
+package com.example.foundation.views
 
 import java.io.Serializable
 

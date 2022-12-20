@@ -7,9 +7,9 @@ import androidx.lifecycle.SavedStateHandle
 import com.example.my_simple_mvvm.R
 import com.example.my_simple_mvvm.model.colors.ColorsRepository
 import com.example.my_simple_mvvm.model.colors.NamedColor
-import com.example.my_simple_mvvm.views.Navigator
-import com.example.my_simple_mvvm.views.UiActions
-import com.example.my_simple_mvvm.views.base.BaseViewModel
+import com.example.foundation.navigator.Navigator
+import com.example.foundation.uiactions.UiActions
+import com.example.foundation.views.BaseViewModel
 import com.example.my_simple_mvvm.views.changeColor.ChangeColorFragment.Screen
 
 class ChangeColorViewModel(

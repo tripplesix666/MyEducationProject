@@ -9,10 +9,10 @@ import androidx.lifecycle.SavedStateHandle
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.my_simple_mvvm.R
 import com.example.my_simple_mvvm.databinding.FragmentChangeColorBinding
-import com.example.my_simple_mvvm.views.HasScreenTitle
-import com.example.my_simple_mvvm.views.base.BaseFragment
-import com.example.my_simple_mvvm.views.base.BaseScreen
-import com.example.my_simple_mvvm.views.base.screenViewModel
+import com.example.foundation.views.HasScreenTitle
+import com.example.foundation.views.BaseFragment
+import com.example.foundation.views.BaseScreen
+import com.example.foundation.views.screenViewModel
 
 /**
  * Screen for changing color.
